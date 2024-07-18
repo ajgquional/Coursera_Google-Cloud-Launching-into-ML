@@ -17,6 +17,9 @@ The following table contains reading/video links provided in each module of the 
     <th>Reading link</th>
   </tr>
 
+  <!-- To disable zebra striping-->
+  <tr></tr>
+  
   <!--Module 2 links-->
   <tr>
     <td rowspan=3 align="center">2</td>
@@ -29,6 +32,9 @@ The following table contains reading/video links provided in each module of the 
   <tr>
     <td><a href="https://towardsdatascience.com/hitchhikers-guide-to-exploratory-data-analysis-6e8d896d3f7e">How to investigate a dataset with python?</a></td>
   </tr>
+
+  <!-- To disable zebra striping-->
+  <tr></tr>
 
   <!--Module 3 links-->
   <tr>
@@ -88,6 +94,7 @@ The following table contains reading/video links provided in each module of the 
     <td rowspan=7>Training AutoML Models Using Vertex AI</td>
     <td><a href="https://cloud.google.com/vertex-ai/docs/training/training">Training AutoML Models</a></td>
   </tr>
+  
   <tr>
     <td><a href="https://cloud.google.com/vertex-ai/docs/training/automl-console">Train an AutoML Model (Cloud Console)</a></td>
   </tr>
@@ -107,10 +114,13 @@ The following table contains reading/video links provided in each module of the 
     <td><a href="https://cloud.google.com/vertex-ai/docs/training/evaluating-automl-models">Evaluate AutoML Models</a></td>
   </tr>
 
+  <!-- To disable zebra striping-->
+  <tr></tr>
+
   <!--Module 5 links-->
   <tr>
     <td rowspan=4 align="center">5</td>
-    <td rowspan=4>BigQuery Machine Learning: Develope ML Models Where Your Data Lives</td>
+    <td rowspan=4>BigQuery Machine Learning: Develop ML Models Where Your Data Lives</td>
     <td><a href="https://cloud.google.com/bigquery-ml/docs">BigQuery ML</a></td>
   </tr>
   <tr>
@@ -126,7 +136,7 @@ The following table contains reading/video links provided in each module of the 
   <!--Module 6 links-->
   <tr>
     <td rowspan=7 align="center">6</td>
-    <td rowspan=7 align="center">Optimization</td>
+    <td rowspan=7>Optimization</td>
     <td><a href="https://genomicsclass.github.io/book/pages/intro_using_regression.html">Introduction to Linear Models</a></td>
   </tr>
   <tr>
@@ -148,10 +158,13 @@ The following table contains reading/video links provided in each module of the 
     <td><a href="https://towardsdatascience.com/understanding-confusion-matrix-a9ad42dcfd62">Understanding Confusion Matrix</a></td>
   </tr>
 
+  <!-- To disable zebra striping-->
+  <tr></tr>
+
   <!--Module 7 links-->
   <tr>
     <td rowspan=2 align="center">7</td>
-    <td rowspan=2 align="center">Generalization and Sampling</td>
+    <td rowspan=2>Generalization and Sampling</td>
     <td><a href="https://medium.com/@pranoyradhakrishnan/when-to-stop-training-your-neural-network-174ff0a6dea5">When to stop Training your Neural Network?</a></td>
   </tr>
   <tr>
